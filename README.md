@@ -1,16 +1,7 @@
 # shopping_list
 
-A new Flutter project.
+A simple shoppig list app that I did as a part of Udemy course on Flutter. It allows to create a shopping list made of different products. The app uses a Firebase server as backend to store items from the list.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Shopping list demo](https://github.com/baltsaros/shopping_list/blob/main/shopping_list_demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
